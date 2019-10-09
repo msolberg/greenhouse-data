@@ -1,4 +1,4 @@
-package app.msolberg.greenhouse_data;
+package app.msolberg.greenhouse_data.verticle;
 
 import io.vertx.core.Vertx;
 import io.vertx.junit5.VertxExtension;

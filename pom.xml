@@ -22,7 +22,7 @@
     <vertx.version>3.8.2</vertx.version>
     <junit-jupiter.version>5.4.0</junit-jupiter.version>
 
-    <main.verticle>app.msolberg.greenhouse_data.MainVerticle</main.verticle>
+    <main.verticle>app.msolberg.greenhouse_data.verticle.MainVerticle</main.verticle>
   </properties>
 
   <dependencyManagement>
